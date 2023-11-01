@@ -1,5 +1,5 @@
 //
-//LUCAS GOURLIA Devoir 3
+//Loux14
 //
 import java.util.ArrayList;
 import java.util.Random;
